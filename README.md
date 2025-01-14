@@ -1,0 +1,1 @@
+This repository contains a simple Javascript example demonstrating a common closure issue within setTimeout. The example showcases how referencing variables within a loop using setTimeout can lead to unexpected results. A solution is also provided to illustrate a correct implementation.
